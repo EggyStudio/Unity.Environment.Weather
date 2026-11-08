@@ -1,6 +1,6 @@
 {
   "name": "com.unityessentials.environment.weather",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "displayName": "Environment Weather",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
@@ -16,7 +16,7 @@
     "com.unityessentials.editor.attributes.togglebutton": "2.0.0",
     "com.unityessentials.editor.hooks.playerloop": "2.0.0",
     "com.unityessentials.editor.tools.editoricons": "2.0.0",
-    "com.unityessentials.environment.celestialcoordinates": "2.0.0",
+    "com.unityessentials.environment.celestialbodies": "2.0.0",
     "com.unityessentials.environment.timeofday": "2.0.0",
     "com.unityessentials.systems.assetresolver": "2.0.0",
     "com.unityessentials.systems.cameraprovider": "2.0.0",
